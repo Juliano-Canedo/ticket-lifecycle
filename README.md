@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
+This tutorial details the end-to-end ticket lifecycle within the open-source help desk ticketing platform osTicket, covering ticket intake, categorization, assignment, escalation, troubleshooting, resolution, and closure.<br />
 
 
 <h2>Environments and Technologies Used</h2>
@@ -14,7 +14,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Operating Systems Used </h2>
 
-- Windows </b> (Windows 11 PRO)
+- Windows </b> (Windows 11 Pro)
 
 
 <h2>Ticket Lifecycle Stages</h2>
