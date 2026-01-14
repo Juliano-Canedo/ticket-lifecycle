@@ -71,15 +71,14 @@ Once Jane opens the ticket she will have the information needed to understand ho
 <img width="1436" height="1908" alt="image" src="https://github.com/user-attachments/assets/22e65103-ba23-4edb-96f6-4e33d011cf87" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+Jane sees the ticket and responds to karen since she is aware of an incident that had occured</p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1440" height="354" alt="image" src="https://github.com/user-attachments/assets/8ab67ccd-3c2f-46e4-8616-a3593a9e145c" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Jane communicates the issue, fixes the problem and closes the ticket
 </p>
 <br />
 
