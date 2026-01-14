@@ -2,7 +2,8 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
+<h1>osTicket - Ticket Lifecycle: Intake, Triage, Escalation, and Resolution
+</h1>
 This tutorial details the end-to-end ticket lifecycle within the open-source help desk ticketing platform osTicket, covering ticket intake, categorization, assignment, escalation, troubleshooting, resolution, and closure.<br />
 
 
