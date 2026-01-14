@@ -52,10 +52,10 @@ After John observes the ticket, he lets me know about it, and I triage the ticke
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1728" height="1814" alt="image" src="https://github.com/user-attachments/assets/28dd5499-c0f9-4e58-936c-53bffcaefe98" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After triaging the ticket I escalated to the SysAdmin department
 </p>
 <br />
 
