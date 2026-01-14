@@ -75,7 +75,8 @@ Jane sees the ticket and responds to karen since she is aware of an incident tha
 <br />
 
 <p>
-<img width="1440" height="354" alt="image" src="https://github.com/user-attachments/assets/8ab67ccd-3c2f-46e4-8616-a3593a9e145c" />
+<img width="1438" height="694" alt="image" src="https://github.com/user-attachments/assets/6fffc9c8-5379-46a9-b936-76b27afd08ce" />
+
 </p>
 <p>
 Jane communicates the issue, fixes the problem and closes the ticket
