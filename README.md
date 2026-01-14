@@ -47,7 +47,7 @@ Karen receives a confirmation and John a new hire at osTicket observes that a ti
 <img width="1064" height="1166" alt="image" src="https://github.com/user-attachments/assets/ced789a3-6e8c-43ff-b4c0-36077dfd3639" />
 </p>
 <p>
-After John observes the ticket, he lets me know about it, and I triage the ticket, updating the Priority Level, SLA Plan, and Help Topic
+ John brings me in and I triage the ticket, updating the Priority Level, SLA Plan, and Help Topic
 </p>
 <br />
 
