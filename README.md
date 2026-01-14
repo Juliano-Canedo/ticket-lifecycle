@@ -31,7 +31,7 @@ This tutorial details the end-to-end ticket lifecycle within the open-source hel
 
 </p>
 <p>
-Karen a "user" has created a ticket
+Karen a "user" has created a ticket.
 </p>
 <br />
 
@@ -39,7 +39,7 @@ Karen a "user" has created a ticket
 <img width="1716" height="1854" alt="image" src="https://github.com/user-attachments/assets/daaf8cbb-3f81-41a5-942c-83f99d9de342" />
 </p>
 <p>
-Karen receives a confirmation and John a new hire at osTicket observes that a ticket was created
+Karen receives a confirmation and John a new hire at osTicket observes that a ticket was created.
 </p>
 <br />
 
@@ -47,7 +47,7 @@ Karen receives a confirmation and John a new hire at osTicket observes that a ti
 <img width="1064" height="1166" alt="image" src="https://github.com/user-attachments/assets/ced789a3-6e8c-43ff-b4c0-36077dfd3639" />
 </p>
 <p>
- John brings me in and I triage the ticket, updating the Priority Level, SLA Plan, and Help Topic
+John escalates the ticket to me for triage, during which I update the Priority Level, Service Level Agreement (SLA) plan, and Help Topic as appropriate.
 </p>
 <br />
 
@@ -55,7 +55,7 @@ Karen receives a confirmation and John a new hire at osTicket observes that a ti
 <img width="1728" height="1814" alt="image" src="https://github.com/user-attachments/assets/28dd5499-c0f9-4e58-936c-53bffcaefe98" />
 </p>
 <p>
-After triaging, I escalated ticket to Jane Doe, a SysAdmin for the Online Banking department
+Following triage, I escalated the ticket to Jane Doe, a Systems Administrator within the Online Banking department.
 </p>
 <br />
 
@@ -63,7 +63,7 @@ After triaging, I escalated ticket to Jane Doe, a SysAdmin for the Online Bankin
 <img width="1724" height="646" alt="image" src="https://github.com/user-attachments/assets/f74ab1ab-ba44-45c9-9abe-6baf06eb045d" />
 </p>
 <p>
-Once Jane opens the ticket she will have the information needed to understand how to help Karen
+Once Jane opens the ticket, she can review the documented details necessary to assess the issue and determine the appropriate support actions for Karen.
 </p>
 <br />
 
@@ -71,7 +71,8 @@ Once Jane opens the ticket she will have the information needed to understand ho
 <img width="1436" height="1908" alt="image" src="https://github.com/user-attachments/assets/22e65103-ba23-4edb-96f6-4e33d011cf87" />
 </p>
 <p>
-Jane sees the ticket and responds to karen since she is aware of an incident that had occured</p>
+Jane reviews the ticket and responds to Karen, as she is aware of a previously identified incident related to the issue.
+</p>
 <br />
 
 <p>
@@ -79,14 +80,11 @@ Jane sees the ticket and responds to karen since she is aware of an incident tha
 
 </p>
 <p>
-Jane communicates the issue, fixes the problem and closes the ticket
+Jane documents the root cause, applies the necessary remediation, verifies service restoration, and formally closes the ticket.
 </p>
 <br />
 
 <p>
 <img width="1416" height="1344" alt="image" src="https://github.com/user-attachments/assets/03463e29-aac7-4e7e-8e51-9cfa8c4e5c6a" />
 </p>
-<p>
-After ensuring that the issue was resolved, click on status and close the ticket 
-</p>
-<br />
+
